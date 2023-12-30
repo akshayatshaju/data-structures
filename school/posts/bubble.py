@@ -7,4 +7,6 @@ def bubble(arr):
                 
 my_list=[64,34,56,22,24,74,12,89]
 bubble(my_list)
-print(my_list)                
+print(my_list)  
+
+"uuu"              
